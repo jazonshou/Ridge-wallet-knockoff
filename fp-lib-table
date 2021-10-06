@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name ridge_wallet)(type KiCad)(uri ${KIPRJMOD}/ridge_wallet.pretty)(options "")(descr ""))
+)
